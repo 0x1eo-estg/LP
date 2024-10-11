@@ -1,0 +1,18 @@
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "C_Cpp.formatting": "vcFormat",
+  "C_Cpp.vcFormat.newLine.beforeElse": false,
+  "C_Cpp.vcFormat.newLine.beforeCatch": false,
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "sameLine",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
+  "C_Cpp.vcFormat.space.beforeInitializerListOpenBrace": true,
+  "C_Cpp.vcFormat.space.beforeLambdaOpenParenthesis": true,
+  "C_Cpp.vcFormat.space.groupSquareBrackets": false,
+  "C_Cpp.vcFormat.wrap.preserveBlocks": "never"
